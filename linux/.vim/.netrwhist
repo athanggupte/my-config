@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/home/athang213/.vim'
+let g:netrw_dirhist_6='/home/athang213/USC/CSCI_499_NLP/Say-What/rl-starter-files/utils'
+let g:netrw_dirhist_5='/home/athang213/USC/CSCI_499_NLP/project-SayWhat/venv/lib/python3.8/site-packages/gym_minigrid'
+let g:netrw_dirhist_4='/home/athang213/USC/CSCI_499_NLP/project-SayWhat/babyai/babyai'
+let g:netrw_dirhist_3='/home/athang213/USC/CSCI_499_NLP/project-SayWhat/babyai/babyai/levels'
+let g:netrw_dirhist_2='/home/athang213/USC/CSCI_499_NLP/project-SayWhat/babyai/babyai'
+let g:netrw_dirhist_1='/home/athang213/USC/CSCI_499_NLP/project-SayWhat/babyai'
+let g:netrw_dirhist_0='/home/athang213/USC/CSCI_499_NLP/project-SayWhat/babyai/babyai'
+let g:netrw_dirhist_9='/home/athang213/USC/CSCI_499_NLP/project-SayWhat/babyai/babyai/utils'
+let g:netrw_dirhist_8='/home/athang213/USC/CSCI_499_NLP/project-SayWhat/babyai/babyai'
